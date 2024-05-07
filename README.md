@@ -27,7 +27,7 @@ DB_PASSWORD=password
 ```
 
 
-> Note: `Docker: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied`
+> Note: If you see in browser the error `Docker: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened: failed to open stream: Permission denied`
 
 ## causes and solution
 
